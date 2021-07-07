@@ -4,7 +4,7 @@ It uses a memory pooling algorithm to fast allocate and deallocate huge amount o
 It may be surprising what kind of functions you may be able to put in your task manager!
 
 ## Usage
-Just compile and run. It only works on Windows, of course, but you may want to adapt to your own system configuration if you want
+Just compile and run. It only works on Windows, of course, but you may want to adapt to your own system configuration if you want. I suggest to use MSVC to compile this file.
 
 ## License
 ```

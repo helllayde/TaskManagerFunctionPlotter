@@ -3,6 +3,8 @@ A simple Function plotter for Windows Task Manager Memory chart. This is a proje
 It uses a memory pooling algorithm to fast allocate and deallocate huge amount of memory in order to plot a given real-valued function in the Task Manager memory chart.
 It may be surprising what kind of functions you may be able to put in your task manager!
 
+![A sneek peak](screen.jpg)
+
 ## Usage
 Just compile and run. It only works on Windows, of course, but you may want to adapt to your own system configuration if you want. I suggest to use MSVC to compile this file.
 
